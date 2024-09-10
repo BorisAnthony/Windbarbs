@@ -31,6 +31,9 @@ For Bold, use the class `wb-b`
 
 
 ## Roadmap
+
 [ ] Package-manager friendliness
+
 [ ] Javascript utility function for converting a windspeed into the approriate barb class name.
+
 [ ] Clean up the source SVGs and add to the package
